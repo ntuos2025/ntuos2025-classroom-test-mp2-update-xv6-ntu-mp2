@@ -35,6 +35,8 @@ maysudo() {
     fi
 }
 
+echo meow
+
 # Function to display usage
 usage() {
     cat <<EOF
